@@ -30,9 +30,9 @@ The following are the two metrics that are used to assess sentiment:
 ● Subjectivity: it refers to how subjective a person's opinion is. Subjectivity is measured on a scale of 0 to 1. (0 being very objective and 1 being very subjective).
 
 Polarity & Subjectivity statistics plot:
-![image](https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png)
+![image](https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png =250x250)
 
 Sentiment Analysis bar plot:
-![image](https://user-images.githubusercontent.com/72091290/158704712-faefe7b6-64ad-45e4-8b68-5d521255b534.png)
+![image](https://user-images.githubusercontent.com/72091290/158704712-faefe7b6-64ad-45e4-8b68-5d521255b534.png =250x250)
 
 
