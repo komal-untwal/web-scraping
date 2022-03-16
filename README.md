@@ -1,5 +1,4 @@
-# web-scraping
-Twitter Data Scraping to identify the sentiments of stressful tweets on Twitter during the COVID-19 pandemic.
+# web-scraping: Twitter Data Scraping to identify the sentiments of stressful tweets on Twitter during the COVID-19 pandemic.
 
 •One of the Major applications of Web scraping is Social media sentiment analysis. It is the use of natural language processing to monitor social discussions online and determine deeper context as it relates to a topic, brand, or theme.
 
