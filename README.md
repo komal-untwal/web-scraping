@@ -26,13 +26,14 @@ Sentiment Analysis:
 I Used TextBlob, a python library to perform sentiment Analysis of our acquired data. TextBlob is a package for text processing, which offers a unified API for typical natural language processing (NLP) operations including part-of-speech tagging, noun phraseextraction, sentiment analysis, and more.
 
 The following are the two metrics that are used to assess sentiment:
+
 ● Polarity: it refers to the degree to which a viewpoint is favorable or negative. The polarity scale runs from -1 to 1. (1 is more positive, 0 is neutral, -1 is more negative).
 ● Subjectivity: it refers to how subjective a person's opinion is. Subjectivity is measured on a scale of 0 to 1. (0 being very objective and 1 being very subjective).
 
 Polarity & Subjectivity statistics plot:
-![image](https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png =250x250)
+![image](https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png| width=100)
 
 Sentiment Analysis bar plot:
-![image](https://user-images.githubusercontent.com/72091290/158704712-faefe7b6-64ad-45e4-8b68-5d521255b534.png =250x250)
+![image](https://user-images.githubusercontent.com/72091290/158704712-faefe7b6-64ad-45e4-8b68-5d521255b534.png| width=100)
 
 
