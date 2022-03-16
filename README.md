@@ -32,6 +32,7 @@ The following are the two metrics that are used to assess sentiment:
 
 Polarity & Subjectivity statistics plot:
 ![image](https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png| width=100)
+<img scr= "https://user-images.githubusercontent.com/72091290/158704609-fc7c8096-4fa6-4a9a-95fd-b2a6702d7969.png" width="200" height="400">
 
 Sentiment Analysis bar plot:
 ![image](https://user-images.githubusercontent.com/72091290/158704712-faefe7b6-64ad-45e4-8b68-5d521255b534.png| width=100)
